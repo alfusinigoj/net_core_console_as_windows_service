@@ -1,2 +1,1 @@
-# net_core_console_as_windows_service
-A sample application for demostrating .NET Core console as a Windows Service
+# Please read the article https://www.initpals.com/net-core/net-core-console-app-as-a-windows-service/ for step by step instructions
